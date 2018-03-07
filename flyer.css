@@ -1,0 +1,97 @@
+
+.flyer3{ float:left; width:100%; box-sizing:border-box;}
+.flyer3-inner-container{width:744px;padding: 0;margin: auto;}
+.flyer3-inner-header{ float:left; width:100%;}
+.flyer3-logo{ float:left; width:100%; padding:10px 0; text-align:center; background-color:#f5f5f5;}
+.flyer3-logo img{ max-height:70px; max-width:200px;}
+.flyer3-top-address{ float:left; width:100%; padding:10px 0; font-size:15px; text-align:center; color:#fff; background-color:#dc8927; }
+.flyer3-top-address img{ display:inline-block; margin-top:-2px; vertical-align:middle;}
+.flyer3-big-banner{ float:left; width:100%;}
+.flyer3-big-banner-img,
+.flyer3-big-banner-img img { float:left; width:100%;}
+.flyer3-details-wrapper{ float:left; width:100%; display:table;}
+.flyer3-details-wrapper .flyer3-details-wrapper-coll{ width:33.33%; display:table-cell; vertical-align:top;}
+.flyer3-details-wrapper-coll-title{ float:left; width:100%; padding:7px 0; font-size:15px; text-align:center; font-weight:bold; color:#fff; background-color:#dc8927;}
+.flyer3-details-wrapper .flyer3-details-wrapper-coll:nth-child(2) .flyer3-details-wrapper-coll-title{ background-color:#000;}
+.flyer3 .owner-section-table{ float:left; width:100%; height:170px; font-size:12px; color:#000; text-align:left; background-color:#f5f5f5; display:table;}
+.flyer3 .owner-section-table .owner-section-table-coll{ display:table-cell; vertical-align:middle; padding:0 15px;}
+.flyer3 .owner-section-table .owner-section-table-coll .ostc-row{ float:left; width:100%; margin:7px 0;}
+.flyer3 .owner-section-table .owner-section-table-coll .ostc-row img{ display:inline-block; vertical-align:middle; width:13px; margin-right:3px;}
+.offer-price-img{ float:left; width:100%;}
+.offer-price-img img{ float:left; width:100%; height:170px;}
+.flyer3 .property-section-table{ float:left; width:100%; height:170px; font-size:12px; color:#000; text-align:left; background-color:#f5f5f5; display:table;}
+.flyer3 .property-section-table .property-section-table-coll{ display:table-cell; vertical-align:middle; padding:0 15px;}
+.flyer3 .property-section-table .property-section-table-coll .pstc-row{ float:left; width:100%; margin:5px 0; display:table;}
+.flyer3 .property-section-table .property-section-table-coll .pstc-row .pstc-row-coll{ display:table-cell; vertical-align:middle;}
+.flyer3 .property-section-table .property-section-table-coll .pstc-row .pstc-row-coll:nth-child(1){ width:80px;}
+.flyer3 .property-section-table .property-section-table-coll .pstc-row .pstc-row-coll:nth-child(2){ width:10px;}
+.flyer3 .down-image{ float:left; width:100%;}
+.flyer3 .down-image .down-image-coll{ float:left; width:33.33%;}
+.flyer3 .down-image .down-image-coll img{ float:left; width:100%; height:150px;}
+.flyer3-footer-wrapper{ float:left; width:100%; padding:10px 0; background-color:#000; text-align:center;}
+.flyer3-footer-wrapper .flyer3-footer-coll{ display:inline-block; vertical-align:middle; }
+.flyer3-footer-wrapper .flyer3-footer-coll:first-child{ width:46px; margin-right:5px;}
+.flyer3-footer-listing-text{ float:left; font-size:15px; color:#dc8927; text-align:left;}
+.flyer3-footer-contact-text{ float:left; font-size:12px; color:#fff; text-align:left;}
+.flyer-header {
+    float: left;
+    width: 100%;
+    background-color: #1b1b1b;
+}
+.flyer-header-inner .flyer-header-cell:last-child form {
+    float: right;
+}
+.flyer-header-inner {
+    float: left;
+    width: 100%;
+    display: table;
+    padding: 10px 15px;
+    box-sizing: border-box;
+}
+.flyer-header-inner .flyer-header-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+.flyer-header-btn {
+    display: inline-block;
+    padding: 12px 15px 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #dc8927;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 2px;
+    box-shadow: 0 2px 0px #a75a00;
+    margin-left: 8px
+}
+
+.flyer-header-logo {
+    float: left;
+    width: 100%;
+}
+.flyer-header-logo img {
+    float: left;
+    max-height: 50px;
+    max-width: 200px;
+}
+/* Sidebar css*/
+
+.sidebar
+{
+    font-weight: 300;
+    width: 256px;
+    height: 100%;
+}
+.sidebar-header
+{
+    background-color: #dc8927;
+    color: white;
+    padding: 16px;
+    font-size: 1.5em;
+}
+.sidebar-inner
+{
+    padding: 16px;
+    height: 100%;
+    background-color: white;
+}
